@@ -10,3 +10,7 @@
 10.  Fin si
 11. Escribir "El sueldo es :" + sueldo
 12.  Fin
+//
+Daria como resultado.
+Sueldo:
+400
