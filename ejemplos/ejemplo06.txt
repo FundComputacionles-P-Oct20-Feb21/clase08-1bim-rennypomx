@@ -10,3 +10,4 @@
 //
 No daria error pero no podria realizar la condicion
 ya que da como resultado Falso.
+Presentaria en pantalla n=2
