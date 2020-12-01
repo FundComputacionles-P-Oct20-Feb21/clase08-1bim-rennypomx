@@ -1,11 +1,11 @@
 1.  Inicio
-2.  valorNetflix, d[0,n]
-3.  valorYoutube, d[0,n]
-4.  valorDropbox, d[0,n]
-5.  valorSpotify, d[0,n]
+2.  valorNetflix, d[0,n] //<--5
+3.  valorYoutube, d[0,n] //<--3
+4.  valorDropbox, d[0,n] //<--10
+5.  valorSpotify, d[0,n] //<--5
 6.  valorTotal, d[0,n]
-7.  edad, i[0,n]
-8.  descuento, d[0,n]
+7.  edad, i[0,n]   
+8.  descuento, d[0,n] 
 9.  porcentaje, d[0,n]
 10. porcentaje <-- 20
 11. Escribir "Ingrese el valor mensual de Netflix"
@@ -22,3 +22,6 @@
 22. Fin si
 23. Escribir "El valor total a pagar es: " + valorTotal
 24. Fin
+// 
+Da un error ya que no tiene asigando un valor para la 
+variable edad.
