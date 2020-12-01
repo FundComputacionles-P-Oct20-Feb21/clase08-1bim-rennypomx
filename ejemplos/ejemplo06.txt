@@ -7,3 +7,6 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
+//
+No daria error pero no podria realizar la condicion
+ya que da como resultado Falso.
