@@ -7,3 +7,9 @@
 8.  Fin Haga_Hasta (numero <= 1)
 9.  Escribir numero
 9.  Fin
+//
+No hay error pero en la linea 7 le sumamos +1 dando como resultado 2,
+luego en la linea 8 no entra al ciclo por lo tanto queda 
+con el valor obtenido y presenta en pantalla los valores de.
+numero= 1
+numero= 2
