@@ -7,3 +7,8 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
+//
+No dara ningun error, el valor si entra al ciclo ya que 
+da Verdadero.
+Mostrando en pantalla el valor de:
+ n= 3
