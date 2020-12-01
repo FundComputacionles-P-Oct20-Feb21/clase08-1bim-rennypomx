@@ -1,6 +1,13 @@
 1. Inicio
 2. edad, i[0,n]
-3. Si edad >= 18 entonces
-4.   Escribir "La edad ingresada pertenece a mayor de edad"
-5. Fin si
-6. Fin
+3. edad <-- 20
+4. Si edad >= 18 entonces
+5.   Escribir "La edad ingresada pertenece a mayor de edad"
+6. Fin si
+7. Fin
+
+//
+la variable es mayor a 18 dara como resultado: 
+
+La edad ingresada pertenece a mayor de edad:
+20
