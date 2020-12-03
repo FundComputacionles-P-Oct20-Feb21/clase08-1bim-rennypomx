@@ -7,3 +7,18 @@
 // 30
 // Debe usar la operación aritmética MOD y un ciclo
 // repetitivo Para
+
+1. Inicio
+
+2. contador, i [0, n]
+3. cadena, x (100) [{0,9}] <- ""
+4. Para (contador <- 5, contador <= 30, 5) haga
+5. Si ((contador MOD 2) == 0) entonces
+6. cadena <- cadena + contador + "\ n"
+7. De lo contrario
+8. cadena <- cadena + contador + "\ n"
+9. Fin Si
+10. Fin_Para
+11. Escribir cadena
+
+12. Fin
